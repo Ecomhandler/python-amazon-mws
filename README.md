@@ -2,7 +2,7 @@
 ![CI Testing](https://img.shields.io/github/workflow/status/python-amazon-mws/python-amazon-mws/Testing/develop?logo=github&style=for-the-badge)
 [![Coverage](https://img.shields.io/codecov/c/github/python-amazon-mws/python-amazon-mws?logo=codecov&logoColor=ffffff&style=for-the-badge)][codecov_link]
 
-# python-amazon-mws
+# python-amazon-mws-v
 
 python-amazon-mws is a Python connector to [Amazon Marketplace Web Services][2]
 (or MWS). It provides a simple way to build and send requests to MWS,
